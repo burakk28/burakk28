@@ -5,7 +5,7 @@
 🔭 I’m currently working on iOS Projects
 
 
-Connect with me:
+Connect with me ;
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/burakkara28/)
 
