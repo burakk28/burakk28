@@ -1,4 +1,4 @@
-### Hello 👋 I'm Burak
+## Hello 👋 I'm Burak
 
 🌱 I’m currently learning Swift
 
