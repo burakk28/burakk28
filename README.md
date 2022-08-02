@@ -1,5 +1,5 @@
 ## 
-<h1 align="center">Hello 👋 I'm Burak/h1>
+<h1 align="center">Hello 👋 I'm Burak </h1>
 
 🌱 I’m currently learning Swift
 
