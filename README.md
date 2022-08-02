@@ -1,4 +1,4 @@
-## 
+###
 <h1 align="center">Hello 👋 I'm Burak </h1>
 
 🌱 I’m currently learning Swift
@@ -6,7 +6,7 @@
 🔭 I’m currently working on iOS Projects
 
 
-Connect with me ;
+<h3 align="left">Connect with me  ; </h3>
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/burakkara28/)
 
