@@ -1,6 +1,9 @@
-# 💫 About Me:
-🌱 I’m currently learning Swift<br>🔭 I’m currently working on iOS Projects
+<h1 align="center">Hello 👋  I'm Burak </h1>
+<h3 align="center">A passionate iOS developer from Turkey</h3>
 
+🌱 I’m currently learning Swift
+
+🔭 I’m currently working on iOS Projects
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/burakkara28/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@karaa.burak28) 
